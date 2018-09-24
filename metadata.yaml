@@ -1,0 +1,40 @@
+_repo: Awdeley-s-Fraternitye-of-Vacabondes-Harman-s-Caueat-Haben-s-Sermon-c_56307
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Harman, Thomas T.
+    gutenberg_agent_id: '5538'
+    url: http://www.gutenberg.org/2009/agents/5538
+  - agent_name: Awdelay, John, active 1559-1577
+    aliases:
+    - Awdeley, John
+    - Awdely, John
+    gutenberg_agent_id: '39680'
+    url: http://www.gutenberg.org/2009/agents/39680
+  - agent_name: Haben, Parson
+    gutenberg_agent_id: '48774'
+    url: http://www.gutenberg.org/2009/agents/48774
+  editors:
+  - agent_name: Furnivall, Frederick James
+    alias: Furnivall, F. J. (Frederick James)
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '5672'
+    url: http://www.gutenberg.org/2009/agents/5672
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_James_Furnivall
+  - agent_name: Viles, Edward
+    gutenberg_agent_id: '39681'
+    url: http://www.gutenberg.org/2009/agents/39681
+description: ''
+gutenberg_issued: '2018-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Awdeley's Fraternitye of Vacabondes, Harman's Caueat, Haben's Sermon, &c.
+url: http://www.gutenberg.org/ebooks/56307
